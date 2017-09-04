@@ -1,4 +1,5 @@
-﻿#Established connection to O365 tenant
+# The script was used for TransportNSW SfB rollout project
+#Established connection to O365 tenant
 Write-Host "***********************************************"
 Write-Host "Connect to Office365 Tenant" -ForegroundColor Cyan
 Write-Host "***********************************************"
